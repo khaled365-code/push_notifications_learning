@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1013316697995",
+    "project_id": "push-notifications-learn-1c58b",
+    "storage_bucket": "push-notifications-learn-1c58b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1013316697995:android:ecfa82246ca31835da398e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_push_notifications_learning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAhh9XmO_mrXckY0q21_F4_0UAUjk0or1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
